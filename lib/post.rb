@@ -1,6 +1,6 @@
 class Post
   
-  attr_accessor :name, :artist, :genre
+  attr_accessor :title, :author
   
   @@all = []
   
